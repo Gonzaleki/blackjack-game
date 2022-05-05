@@ -1,0 +1,101 @@
+body {
+    background-image: url(https://pepebarrientos.com/wp-content/uploads/2018/12/brigadier-husar_22-peacock-9122-verde-ingles.jpg);
+    background-size: cover;
+}
+
+.title {
+    text-align: center;
+    width: 100%;
+    color: rgb(180, 180, 35);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 100px;
+}
+
+button {
+    border: none;
+    background-color: rgba(240, 255, 255, 0);
+
+}
+
+.centrado {
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(34, 34, 34)
+}
+
+#nuevo-juego {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+}
+
+#apostar {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+}
+
+#cerrar-mano  {
+
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+}
+
+
+#pedir-carta  {
+
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+}
+
+
+#pista  {
+
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+}
+
+h3 {
+    color: white;
+}
+
+.hand {
+    font-size: 40px;
+    color: white;
+}
+
+.suma {
+    font-size: 18px;
+    color: white;
+}
+
+.hand button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: fit-content;
+    border: 1px solid rgb(221, 85, 22);
+
+}
+
+
+
